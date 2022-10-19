@@ -21,7 +21,7 @@ import (
 	"github.com/golang/protobuf/ptypes/timestamp"
 	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/wsw365904/fabric-chaincode-go/shim"
+	"github.com/hellobchain/fabric-chaincode-go/shim"
 )
 
 const (

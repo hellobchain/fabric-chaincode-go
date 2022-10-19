@@ -48,6 +48,8 @@ github.com/google/go-cmp v0.5.6 h1:BKbKCqvP6I+rmFHt06ZmyQtvB8xAkWdhFyr0ZUNZcxQ=
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
+github.com/hellobchain/newcryptosm v0.0.0-20221019060107-edb949a317e9 h1:t2JkJPpUTq1FyMXGx6LQXk6or2GbGeAXHVeTZpgkSLQ=
+github.com/hellobchain/newcryptosm v0.0.0-20221019060107-edb949a317e9/go.mod h1:/aw5jNdOiU2sL1uDbCFJEzoJFNK3+RAqo9TDzfJx2L0=
 github.com/hyperledger/fabric-protos-go v0.0.0-20220613214546-bf864f01d75e h1:Ae2p0e+v5ekrl4KgkbCStBTSoV67Cg9fPkEWrv0f3nk=
 github.com/hyperledger/fabric-protos-go v0.0.0-20220613214546-bf864f01d75e/go.mod h1:xVYTjK4DtZRBxZ2D9aE4y6AbLaPwue2o/criQyQbVD0=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
@@ -71,8 +73,6 @@ github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
-github.com/wsw365904/newcryptosm v0.0.0-20220828125632-86553d92e907 h1:NGL5jzt047pwzgGB6gZY2WZWfSVuBsO6rYTwGELqMVA=
-github.com/wsw365904/newcryptosm v0.0.0-20220828125632-86553d92e907/go.mod h1:7L+vDLXwSCoeV2GxiYMx/nAHuCUAnKja3Dgr7QBj53Q=
 go.opentelemetry.io/proto/otlp v0.7.0/go.mod h1:PqfVotwruBrMGOCsRd/89rSnXhoiJIqeYNgFYFoEGnI=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=

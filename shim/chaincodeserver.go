@@ -5,10 +5,10 @@ package shim
 
 import (
 	"errors"
-	"github.com/wsw365904/newcryptosm/tls"
+	"github.com/hellobchain/newcryptosm/tls"
 
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/wsw365904/fabric-chaincode-go/shim/internal"
+	"github.com/hellobchain/fabric-chaincode-go/shim/internal"
 
 	"google.golang.org/grpc/keepalive"
 )

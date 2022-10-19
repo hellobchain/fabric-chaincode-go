@@ -10,7 +10,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/msp"
 	"github.com/stretchr/testify/assert"
-	"github.com/wsw365904/fabric-chaincode-go/pkg/cid"
+	"github.com/hellobchain/fabric-chaincode-go/pkg/cid"
 )
 
 const certWithOutAttrs = `-----BEGIN CERTIFICATE-----

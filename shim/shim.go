@@ -15,7 +15,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	peerpb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/wsw365904/fabric-chaincode-go/shim/internal"
+	"github.com/hellobchain/fabric-chaincode-go/shim/internal"
 )
 
 const (

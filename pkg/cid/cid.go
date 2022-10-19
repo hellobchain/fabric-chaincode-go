@@ -9,12 +9,12 @@ import (
 	"encoding/hex"
 	"encoding/pem"
 	"fmt"
-	"github.com/wsw365904/newcryptosm/x509"
-	"github.com/wsw365904/newcryptosm/x509/pkix"
+	"github.com/hellobchain/newcryptosm/x509"
+	"github.com/hellobchain/newcryptosm/x509/pkix"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/wsw365904/fabric-chaincode-go/pkg/attrmgr"
+	"github.com/hellobchain/fabric-chaincode-go/pkg/attrmgr"
 )
 
 // GetID returns the ID associated with the invoking identity.  This ID

@@ -5,11 +5,11 @@ package internal
 
 import (
 	"errors"
-	"github.com/wsw365904/newcryptosm/tls"
+	"github.com/hellobchain/newcryptosm/tls"
 	"net"
 	"time"
 
-	"github.com/wsw365904/newcryptosm/tls/credentials"
+	"github.com/hellobchain/newcryptosm/tls/credentials"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 )

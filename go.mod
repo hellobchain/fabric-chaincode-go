@@ -1,4 +1,4 @@
-module github.com/wsw365904/fabric-chaincode-go
+module github.com/hellobchain/fabric-chaincode-go
 
 go 1.16
 
@@ -10,8 +10,8 @@ require (
 )
 
 require (
+	github.com/hellobchain/newcryptosm v0.0.0-20221019060107-edb949a317e9
 	github.com/kr/pretty v0.3.0 // indirect
-	github.com/wsw365904/newcryptosm v0.0.0-20220828125632-86553d92e907
 	google.golang.org/genproto v0.0.0-20220718134204-073382fd740c // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )

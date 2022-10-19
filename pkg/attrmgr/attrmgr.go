@@ -10,8 +10,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/wsw365904/newcryptosm/x509"
-	"github.com/wsw365904/newcryptosm/x509/pkix"
+	"github.com/hellobchain/newcryptosm/x509"
+	"github.com/hellobchain/newcryptosm/x509/pkix"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/msp"

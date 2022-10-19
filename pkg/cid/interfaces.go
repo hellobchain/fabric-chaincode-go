@@ -3,7 +3,7 @@
 
 package cid
 
-import "github.com/wsw365904/newcryptosm/x509"
+import "github.com/hellobchain/newcryptosm/x509"
 
 // ChaincodeStubInterface is used by deployable chaincode apps to get identity
 // of the  agent (or user) submitting the transaction.

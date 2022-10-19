@@ -6,8 +6,8 @@ package internal_test
 import (
 	"context"
 	"encoding/base64"
-	"github.com/wsw365904/newcryptosm/tls"
-	"github.com/wsw365904/newcryptosm/x509"
+	"github.com/hellobchain/newcryptosm/tls"
+	"github.com/hellobchain/newcryptosm/x509"
 	"io/ioutil"
 	"os"
 	"testing"
@@ -15,8 +15,8 @@ import (
 
 	peerpb "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/stretchr/testify/assert"
-	. "github.com/wsw365904/fabric-chaincode-go/shim/internal"
-	"github.com/wsw365904/newcryptosm/tls/credentials"
+	. "github.com/hellobchain/fabric-chaincode-go/shim/internal"
+	"github.com/hellobchain/newcryptosm/tls/credentials"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 )

@@ -13,7 +13,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
 	peerpb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/wsw365904/fabric-chaincode-go/shim/internal/mock"
+	"github.com/hellobchain/fabric-chaincode-go/shim/internal/mock"
 
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/timestamp"

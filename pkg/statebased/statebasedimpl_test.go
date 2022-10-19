@@ -10,7 +10,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/msp"
 	"github.com/stretchr/testify/assert"
-	"github.com/wsw365904/fabric-chaincode-go/pkg/statebased"
+	"github.com/hellobchain/fabric-chaincode-go/pkg/statebased"
 )
 
 func TestAddOrg(t *testing.T) {

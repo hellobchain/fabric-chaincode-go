@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/wsw365904/fabric-chaincode-go/shim"
-	"github.com/wsw365904/fabric-chaincode-go/shimtest/mock"
+	"github.com/hellobchain/fabric-chaincode-go/shim"
+	"github.com/hellobchain/fabric-chaincode-go/shimtest/mock"
 )
 
 //go:generate counterfeiter -o mock/chaincode.go --fake-name Chaincode . chaincode

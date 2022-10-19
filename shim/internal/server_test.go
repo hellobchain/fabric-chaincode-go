@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wsw365904/fabric-chaincode-go/shim/internal"
+	"github.com/hellobchain/fabric-chaincode-go/shim/internal"
 
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc/keepalive"
